@@ -1,0 +1,8 @@
+{
+  "name": "CampusConnect - University Placement Management System",
+  "description": "Unified enterprise placement platform for students, placement officers (TPO), and recruiters featuring real-time drives, eligibility checking, analytics, and interview pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
